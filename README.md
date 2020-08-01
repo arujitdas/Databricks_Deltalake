@@ -6,4 +6,4 @@ Although, Data Lake has been in place for a couple of good amount of time meetin
 4.	Unified Batch and Streaming
 5.	Full DML support
 
-In the attached notebook, I will try to explain the above parameters with a hands-on use case and with the help of Databricks Delta lake; in addition utilizing the above said benefits/parameters
+In the attached notebook, I will try to explain the above parameters with a hands-on use case and with the help of Databricks Delta lake

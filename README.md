@@ -5,4 +5,5 @@ Although, Data Lake has been in place for a couple of good amounts of time meeti
 3.	Time Travel
 4.	Unified Batch and Streaming
 5.	Full DML support
+
 In the attached notebook, I will try to explain the above parameters with a hands-on use case
